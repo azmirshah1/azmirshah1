@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Azmir Shah 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmirshah1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmirshah1&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
 ## About Me
@@ -80,13 +80,6 @@ A machine learning model that predicts stock market trends.
 ## 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 40 mins  ███████████▓░░░░░░░░░░░░  45.8%
-React        8 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░  31.0%
-CSS          3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░  13.9%
-Python       2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░   8.7%
-JSON         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
-```
 <!--END_SECTION:waka-->
 
 <!-- 
