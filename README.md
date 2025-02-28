@@ -15,11 +15,11 @@ const developer = {
 };
 ```
 
-### Main skills
+### Frontend skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,figma,git,markdown,netlify,vercel,postman,)](https://skillicons.dev)
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,npm,redis,redux,sentry,)](https://skillicons.dev)
+### Backend skills (Hobby)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,express,npm,redis,redux,sentry,)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=flutter,aws)](https://skillicons.dev)
