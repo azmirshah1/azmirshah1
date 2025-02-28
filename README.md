@@ -22,7 +22,7 @@ const developer = {
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,npm,redis,redux,sentry,)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=flutter,aws)](https://skillicons.dev)
 
 
 <!--## 📊 This Week I Spent My Time On:-->
