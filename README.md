@@ -106,4 +106,4 @@ A machine learning model that predicts stock market trends.
 </div>
 
 <!-- This README is automatically updated every day -->
-<p align="center">Last Updated: <strong>{{date}}</strong></p>
+<p align="center">Last Updated: <strong>LAST_UPDATED</strong></p>
