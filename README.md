@@ -11,7 +11,7 @@ const developer = {
         databases: ["MongoDB", "MySQL"],
         devOps: ["Docker", "AWS", "GitHub Actions"],
     },
-    currentlyLearning: ["Rust", "WebAssembly"]
+    currentlyLearning: ["Flutter"]
 };
 ```
 <!--
