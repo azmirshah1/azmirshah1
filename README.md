@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Azmir Shah 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmirshah1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmirshah1&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
 ## About Me
