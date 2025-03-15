@@ -6,7 +6,7 @@ const developer = {
     role: "Front End Developer",
     languages: ["JavaScript"],
     technologies: {
-        frontEnd: ["React"],
+        frontEnd: ["React", "Tailwind"],
         backEnd: ["Node.js", "Express"],
         databases: ["MongoDB", "MySQL"],
         devOps: ["AWS", "GitHub Actions"],
