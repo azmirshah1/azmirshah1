@@ -21,8 +21,8 @@ const developer = {
 ### Backend skills (Hobby)
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,express,npm,redis,redux,sentry,)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=flutter,aws)](https://skillicons.dev)
+<!--### Studying
+[![Learning](https://skillicons.dev/icons?i=flutter,aws)](https://skillicons.dev)-->
 
 
 <!--## 📊 This Week I Spent My Time On:-->
