@@ -12,7 +12,7 @@ const developer = {
         devOps: ["AWS", "GitHub Actions"],
     },
     currentlyLearning: ["Project Management","React Native"],
-    CurrentlyWorkingOn: ["Documentation Website","Currency Website"],
+    currentlyWorkingOn: ["Documentation Website", "Currency Website"],
 };
 ```
 
