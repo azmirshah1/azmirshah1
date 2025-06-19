@@ -11,7 +11,8 @@ const developer = {
         databases: ["MongoDB", "MySQL"],
         devOps: ["AWS", "GitHub Actions"],
     },
-    currentlyLearning: ["Project Management","React Native"]
+    currentlyLearning: ["Project Management","React Native"],
+    CurrentlyWorkingOn: ["Documentation Website","Currency Website"],
 };
 ```
 
