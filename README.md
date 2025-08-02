@@ -9,7 +9,7 @@ const developer = {
         frontEnd: ["React", "Tailwind"],
         backEnd: ["Node.js", "Express"],
         databases: ["MongoDB", "MySQL"],
-        devOps: ["AWS", "GitHub Actions"],
+        devOps: ["Azure DevOps", "GitHub Actions"],
     },
     currentlyLearning: ["Project Management","React Native"],
     currentlyWorkingOn: ["Documentation Website", "Currency Website","Mobile App"],
