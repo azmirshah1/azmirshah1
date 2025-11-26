@@ -3,7 +3,7 @@
 ```javascript
 const developer = {
     name: "Azmir Shah",
-    role: "Front End Developer",
+    role: "Ex Front End Developer",
     languages: ["JavaScript"],
     technologies: {
         frontEnd: ["React", "Tailwind"],
@@ -11,7 +11,7 @@ const developer = {
         databases: ["MongoDB", "MySQL"],
         devOps: ["Azure DevOps", "GitHub Actions"],
     },
-    currentlyLearning: ["Project Management","React Native"],
+    currentlyLearning: ["Project Management","DevOps"],
     currentlyWorkingOn: ["Documentation Website", "Currency Website","Mobile App"],
 };
 ```
