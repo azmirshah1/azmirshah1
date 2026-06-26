@@ -7,7 +7,7 @@ const developer = {
     languages: ["JavaScript"],
     technologies: {
         frontEnd: ["React", "Tailwind"],
-        backEnd: ["Node.js", "Express"],
+        backEnd: ["Node.js", "Express", "Python", "Java"],
         databases: ["MongoDB", "MySQL"],
         devOps: ["Azure DevOps", "GitHub Actions"],
     },
