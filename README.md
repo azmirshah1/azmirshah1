@@ -8,7 +8,7 @@ const developer = {
     technologies: {
         frontEnd: ["React", "Tailwind"],
         backEnd: ["Node.js", "Express", "Python", "Java"],
-        databases: ["MongoDB", "MySQL"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["Azure DevOps", "GitHub Actions"],
     },
     currentlyLearning: ["Project Management","DevOps"],
